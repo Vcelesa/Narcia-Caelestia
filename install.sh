@@ -28,7 +28,6 @@ sudo systemctl enable sddm
 
 echo "Install config"
 git clone https://github.com/vcelesa/nvim-config.git ~/.config/nvim
-git clone https://github.com/vcelesa/shell-config.git
 cp ./shell-config/keybinds.lua ~/.config/hypr/hyprland/keybinds.lua
 cp ./shell-config/variables.lua ~/.config/hypr/variables.lua
 cp ./shell-config/shell.json ~/.config/caelestia/shell.json

@@ -1,0 +1,22 @@
+{
+    "bar": {
+        "persistent": false,
+        "showOnHover": true
+    },
+    "launcher": {
+        "enabled": true,
+        "showOnHover": false,
+        "useFuzzy": {
+            "apps": false,
+            "wallpapers": false
+        },
+        "vimKeybinds": false
+    },
+    "paths": {
+        "wallpaperDir": "/home/narcia/Pictures/Wallpapers"
+    },
+    "services": {
+        "useFahrenheit": false,
+        "useTwelveHourClock": false
+    }
+}
